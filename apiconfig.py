@@ -8,8 +8,8 @@ CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
 
-MU_SUFFIX = 'v1m3cc2x'
-MU_REGEX = '%5m'
+MU_SUFFIX = 'download.windowsupdate.com'
+MU_REGEX = '%suffix'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
 API_INTERFACE = 'glzjinmod'  # glzjinmod, modwebapi
